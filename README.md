@@ -2,7 +2,7 @@
 
 ---
 
-Este é um script de lote para o Windows que verifica se o Python, Selenium, PyAutoGUI e MouseInfo estão instalados em sua máquina. Se eles não estiverem instalados, o script faz o download e a instalação.
+Este é um script básico em lote para o Windows que faz download e a instalação da última versão do Python, e instala as bibliotecas para automação como Selenium, PyAutoGUI e MouseInfo.
 
 ### Pré-requisitos
 Sistema operacional Windows 10
