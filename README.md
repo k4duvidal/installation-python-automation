@@ -15,5 +15,7 @@ Clique duas vezes no script para executá-lo
 Uso
 Basta executar o script para verificar se os pacotes requeridos estão instalados. Se eles não estiverem instalados, o script fará o download e a instalação. Se eles já estiverem instalados, o script imprimirá uma mensagem indicando que já estão instalados.
 
+Depois da instalação do arquivo script.bat, rode esse comando `python teste_script.py` dentro do cmd no diretório que contém os arquivos baixados, para verificar se a instalação está funcionando corretamente.
+
 ### Contribuições
 Se você encontrar algum bug ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou pull request no repositório.
