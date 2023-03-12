@@ -19,7 +19,7 @@ Basta executar o script para verificar se os pacotes requeridos estão instalado
 
 :warning: Ao clicar no script.bat, talvez seja necessário clicar em "Executar assim mesmo".
 
-<img src="/media/mrk/Lil-Win/Windows/gifwind.gif" alt="gifwind"  />
+<img src="./win.gif" alt="gif"  />
 
 
 
@@ -31,7 +31,7 @@ Depois da instalação do arquivo script.bat, rode esse comando dentro do cmd  :
 python teste_script.py
 ```
 
-:thinking: Lembre-se de estar dentro do diretório que contém os arquivos baixados para verificar se a instalação está funcionando corretamente.
+:thinking:  Lembre-se de estar dentro do diretório que contém os arquivos baixados para verificar se a instalação está funcionando corretamente.
 
 
 
